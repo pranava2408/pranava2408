@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://codeforces.com/profile/pranava2408">
+  <a href="https://codeforces.com/profile/pranavachaitanyaballa">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
